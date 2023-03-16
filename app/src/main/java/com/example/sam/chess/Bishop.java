@@ -102,6 +102,7 @@ public class Bishop extends Piece{
             currentBoard.board[oldX][oldY].piece = null;
             return 1;
         }
+        int test = 10;
         printError();
         return -1;
     }
