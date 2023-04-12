@@ -9,6 +9,9 @@ public class test {
         int test = 2023421;
         int time = 1610;
         System.out.println("upupup");
+
+        int result = a+b;
+
     }
     
 }
