@@ -8,6 +8,7 @@ public class test {
         int result = a+b;
         int test = 2023421;
         int time = 1610;
+        System.out.println("upupup");
     }
     
 }
