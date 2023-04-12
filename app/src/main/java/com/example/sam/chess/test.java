@@ -6,6 +6,7 @@ public class test {
         int a = 1;
         int b = 2;
         int result = a+b;
+        int test = 2023421;
     }
     
 }
