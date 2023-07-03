@@ -14,6 +14,7 @@ public class test {
         int time = 1610;
         System.out.println("upupup");
         System.out.println("fucku!");
+        System.out.println("I don't give a fck");
 
 
 
